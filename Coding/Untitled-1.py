@@ -1,0 +1,5 @@
+print("\"Ahmad\"")
+print("\'Ali'")
+print("Armaghan\tAhmad")
+print("Hellot\b")
+print("My name is ahmad\ni am 19")
